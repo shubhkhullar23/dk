@@ -1,0 +1,318 @@
+body {
+font-family: 'raleway' sans-serif;
+}
+img {
+width:100%;
+}
+
+.nav-inverse{
+background: rgba(0,0,0,.7);
+border:none;
+}
+-nav-inverse .navbar-Brand {
+color: #fff;
+}
+-nav-inverse .navbar-nav>li>a{
+color:#fff;
+}
+#home {
+background:brown;
+text-align: center;
+color: red;
+padding: 200px 0 0 50px;
+background-size:cover;
+background-attachment:fixed;
+}
+#home h1{
+font-size:145px;
+}
+#home .deco{
+	
+width:100%;
+color: red;
+font-size:20px;
+}
+#home .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#home h3 {
+font-family:'Droid Serif',serif:
+font-size: 30px;
+padding :20px 0 120px 0;
+}
+#home a{
+color:black;
+border :2px solid white;
+height: 30px;
+width:30px;
+padding:15px;
+border-radius:50%;
+bottom:30px;
+position:relative;
+}
+#about {
+padding :100px 8%;
+text-align:center;
+}
+#about h2{
+font-weight:bold;
+font-size:40px;
+}
+#about p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#about .deco{
+width:100%;
+color: #c5a47e;
+font-size:20px;
+}
+#about .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#about img{
+margin: 20px 0;
+}
+#about img:hover{
+border:2px solid black;
+opacity:0.5;
+width:50%;
+}
+
+#whatwedo {
+padding :100px 8%;
+text-align:center;
+}
+#whatwedo h2{
+font-weight:bold;
+font-size:40px;
+}
+#whatwedo p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#whatwedo .deco{
+width:100%;
+color: #c5a47e;
+font-size:20px;
+}
+#whatwedo .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#whatwedo i{
+font-size:60px;
+}
+#whatwedo h5{
+font-size:30px;
+font-weight:bold;
+}
+#freebies {
+padding :100px 8%;
+text-align:center;
+}
+#freebies h6{
+font-weight:bold;
+font-size:40px;
+}
+#freebies h7{
+font-weight:bold;
+font-size:25px;
+}
+#freebies small{
+font-size:20px;
+}
+#freebies p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#freebies.deco{
+width:100%;
+color: #c5a47e;
+font-size:20px;
+}
+#freebies .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#freebies img{
+margin: 20px 0;
+}
+#freebies img:hover{
+border:2px solid black;
+}
+#tools {
+padding :100px 8%;
+text-align:center;
+}
+#tools h8{
+font-weight:bold;
+font-size:40px;
+}
+#tools h9{
+font-weight:bold;
+font-size:25px;
+}
+#tools small{
+font-size:20px;
+}
+#tools p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#tools.deco{
+width:100%;
+color: #c5a47e;
+font-size:20px;
+}
+#tools .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#tools img{
+margin: 20px 0;
+}
+#tools img:hover{
+border:2px solid black;
+}
+
+#meetourteam {
+padding :100px 8%;
+text-align:center;
+}
+#meetourteam h6{
+font-weight:bold;
+font-size:40px;
+}
+#meetourteam p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#meetourteam .deco{
+width:100%;
+color: #c5a47e;
+font-size:20px;
+}
+#meetourteam .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+#numbers {
+padding :250px 8%;
+text-align:center;
+background-size:cover;
+}
+#numbers h10{
+font-weight:bold;
+font-size:40px;
+}
+#numbers h11{
+font-weight:bold;
+font-size:25px;
+}
+#numbers small{
+font-size:20px;
+padding:20px;
+}
+#numbers p{
+color:grey;
+font-size:25px;
+font-family:'Droid Serif',serif:
+}
+#numbers .deco{
+width:100%;
+color:red;
+font-size:20px;
+margin:20px;
+}
+#numbers .deco-line{
+border-bottom:2px solid red;
+display: inline-block;
+width:25%;
+}
+
+.team_img{
+width:200px;
+height:200px;
+border-radius:50%;
+border:3px solid brown;
+}
+.connect {
+width:200px;
+text-align:center;
+Margin:20px;
+padding:20px;
+border:3px solid grey;
+font-size:20px;
+}
+.nod{
+    float: right;
+    font-size: 20px;
+    margin:10px 0 0 0;
+    font-family: 'droid serif',serif;
+  }
+  .facb{
+    width: 25px;
+    height: 25px;
+    margin: 0 10px 0 0;
+  }
+  .gog{
+    width: 25px;
+    height: 25px;
+    margin: 0 10px 0 0;
+  }
+  .txxt{
+    font-size: 10px;
+    color: grey;
+
+    font-family: 'droid serif',serif;
+    margin: 8px 0 0 30px;
+  }
+  .facebook{
+    margin: 0 0 0 30px;
+  }
+  .txt{
+    margin: 10px 0 10px 55px;
+  }
+  .form-control{
+    font-size: 16px;
+  }
+  .foot{
+    text-align: center;
+    padding : 30px 0 30px 0;
+    color: white;
+    margin: 0 0 0 0;
+  }
+  .ft{
+    background: #1B2631;
+  }
+.social{
+  float: right;
+  padding : 20px 20px 20px 0;
+  font-size: 15px;
+  color: white;
+}
+.links h6{
+  display: inline-block;
+  padding : 20px 0 20px 5px;
+  font-size: 15px;
+  color: white;
+}
+.btn-info{
+  margin: 0px 0 130px 0;
+}
+
+
